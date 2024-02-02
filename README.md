@@ -74,7 +74,8 @@ OUTPUT_DIRNAME/（処理2のINPUT_DIRNAME）
           ├ **.nii
 ```
 ## 引用
-脳MRIを使用した研究では必ず前処理のセクションで以下のPaperを引用してください．
+脳MRIを使用した研究では必ず前処理のセクションで以下のPaperを引用してください．<br>
+Paper: https://www.medrxiv.org/content/10.1101/2024.01.18.24301494v1<br>
 ```
 @article {Nishimaki2024.01.18.24301494,
 	author = {Kei Nishimaki and Kengo Onda and Kumpei Ikuta and Yuto Uchida and Susumu Mori and Hitoshi Iyatomi and Kenichi Oishi},
