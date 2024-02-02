@@ -1,5 +1,5 @@
 # T1脳MRIの前処理用コード
-法政のT1脳画像に使用されている前処理の実装です．<br>
+法政のT1脳MRIに使用されている前処理の実装です．<br>
 ご不明な点がございましたらmackyまでご連絡ください．
 
 ## インストール
@@ -74,6 +74,7 @@ OUTPUT_DIRNAME/（処理2のINPUT_DIRNAME）
           ├ **.nii
 ```
 ## 引用
+脳MRIを使用した研究では必ず前処理のセクションで以下のPaperを引用してください．
 ```
 @article {Nishimaki2024.01.18.24301494,
 	author = {Kei Nishimaki and Kengo Onda and Kumpei Ikuta and Yuto Uchida and Susumu Mori and Hitoshi Iyatomi and Kenichi Oishi},
