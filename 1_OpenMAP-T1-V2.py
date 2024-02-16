@@ -66,8 +66,6 @@ def main():
         output = postprocessing(parcellated, separated, shift, device)
         nii = nib.Nifti1Image(output.astype(np.uint16), affine=data.affine)
         nib.save(nii, f"{OUTPUT_PARCELLATION_PATH}/{opath}")
-        gaga
-        # nibabel, tqdm, simpleitk, scipy, ants
     
 if __name__ == "__main__":
     main()
